@@ -1,0 +1,23 @@
+HERO NAME: Superman
+QUOTE: The only way to know how strong you are is to keep testing your limits.
+IMAGE URL: ./images/superman.jpg
+
+HERO NAME: Batman
+QUOTE: It’s not who I am underneath, but what I do that defines me.
+IMAGE URL: ./images/batman.jpg
+
+HERO NAME: Wonder Woman
+QUOTE: What one does when faced with the truth is more difficult than you’d think.
+IMAGE URL: ./images/wonder-woman.jpg
+
+HERO NAME: Spider-Man
+QUOTE: Not everyone is meant to make a difference. But for me, the choice to lead an ordinary life is no longer an option.
+IMAGE URL: ./images/spider-man.jpg
+
+HERO NAME: Black Panther
+QUOTE: In times of crisis, the wise build bridges while the foolish build barriers.
+IMAGE URL: ./images/black-panther.jpg
+
+HERO NAME: Storm
+QUOTE: You strive forever for the best. You are capable to be, therefor lies the victory.
+IMAGE URL: ./images/storm.jpg
