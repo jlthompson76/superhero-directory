@@ -137,6 +137,8 @@ function addHero() {
     createCard();
 }
 
+// There is no PART 6, looks like it was skipped by mistake?
+
 // PART 7
 // create a function called resetForm 
 
